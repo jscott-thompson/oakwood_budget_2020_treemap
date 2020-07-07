@@ -3,6 +3,8 @@
 Created on Mon Jul  6 20:03:59 2020
 
 @author: Scott
+
+Data grabbed from https://storage.googleapis.com/proudcity/oakwoodoh/uploads/2020/02/2020-City-of-Oakwood-Budget.pdf
 """
 #%%
 import matplotlib.pyplot as plt
